@@ -274,5 +274,7 @@ main section {
     background: #FFF;
     border: 0px;
     width: 100%;
-
+}
+.icon a{
+    margin-right: 24px;
 }
